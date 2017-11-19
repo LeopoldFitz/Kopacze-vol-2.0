@@ -1,1 +1,1 @@
-https://kopaczevol2.0.github.io
+kopaczevol2.0.github.io
