@@ -1,1 +1,1 @@
-https://github.com/LeopoldFitz/Kopacze-vol-2.0.git
+https://kopaczevol2.0.github.io
